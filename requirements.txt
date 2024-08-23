@@ -1,0 +1,6 @@
+tensorflow
+tensorflow-hub
+tensorflow-datasets
+numpy
+matplotlib
+Pillow
